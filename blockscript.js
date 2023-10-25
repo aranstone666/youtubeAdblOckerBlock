@@ -2,7 +2,7 @@
 // @name         Fuck Adblocks 2.0_ruhul
 // @namespace    http://tampermonkey.net/
 // @version      1.8
-// @description  it block youtube add block blocking features
+// @description  it block youtube adblock blocking features
 // @author       Ruhul
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
